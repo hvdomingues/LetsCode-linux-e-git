@@ -1,0 +1,9 @@
+1- Principais comandos do Terminal Linux
+
+	cd -> Usamos esse comando para entrar/sair de diretórios.
+	ls -> Esse comando lista os arquivos e pastas do diretório atual.
+		Parâmetros: -l -> Lista com detalhes
+			    -a -> Lista arquivos ocultos
+	sudo -> Executa o comando como 'Super User'
+	apt -> Comando responsável pelo gerenciador de pacotes do Linux, utilizado para instalar aplicativos, por exemplo.
+	
