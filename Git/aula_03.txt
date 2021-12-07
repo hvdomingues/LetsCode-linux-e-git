@@ -1,0 +1,4 @@
+1. Introdução ao Git
+
+	Nessa aula nos foi introduzido todo o conceito do git, aprendemos que é um software controlador de versões criado por Linus Torvalds ao se deparar com problemas no desenvolvimento do Linux.
+	Commits são como versões do projeto e branches são ramificações.
