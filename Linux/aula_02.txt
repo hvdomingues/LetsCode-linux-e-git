@@ -6,4 +6,6 @@
 			    -a -> Lista arquivos ocultos
 	sudo -> Executa o comando como 'Super User'
 	apt -> Comando responsável pelo gerenciador de pacotes do Linux, utilizado para instalar aplicativos, por exemplo.
+	nano -> Editor de texto no próprio terminal
+	touch -> Cria um arquivo
 	
