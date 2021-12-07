@@ -1,0 +1,3 @@
+1. Aprofundando no Git I
+
+	Nessa aula aprendemos um pouco mais sobre o conceito do GIT e como utiliza-lo, foram resolvidos alguns problemas com instalação/utilização.

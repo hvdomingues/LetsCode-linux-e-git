@@ -1,0 +1,7 @@
+1. Git na prática
+
+	Nessa aula aprendemos sobre alguns comandos GIT, como:
+		git add . -> Adiciona todos os arquivos na staging area
+		git commit -m 'Mensagem' -> Cria uma versão do arquivo com a descrição que desejar.
+		git status -> Mostra um resumo de tudo que está acontecendo atualmente no GIT
+		git log -> Mostra os commits realizados

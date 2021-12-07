@@ -1,0 +1,3 @@
+6. Aprofundando no Git II
+
+	Nessa aula aprendemos a utilizar as branches, vimos também como voltar atrás de commits utilizando comandos como "git reset" e "git revert". Também aprendemos a fazer o merge e arrumar conflitos.
