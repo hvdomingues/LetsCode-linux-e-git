@@ -1,0 +1,8 @@
+1. Introdução ao Linux
+
+	Nessa aula aprendemos que o Linux não é um sistema operacional, e sim um Kernel.
+	Um Kernel é a interface responsável pela comuniação do hardware com o sistema operacional.
+
+2. Intalação da VM
+
+	Aprendemos a instalar a Oracle VM VirtualBox, responsável por criar e gerenciar máquinas virtuais.
